@@ -5,3 +5,11 @@ A new repository is created for the folder. Its required to initialize the folde
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Its the temporary location to stage the files neccesary to commit. If we dont need to commit all the files in the directory then this is helpful.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Staging area can be used to move only the files having one logical change and committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want another version of the code for to experiment keeping the orginal intact. Branches help to create mutiple versions parallely.
