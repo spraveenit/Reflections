@@ -13,3 +13,7 @@ Staging area can be used to move only the files having one logical change and co
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When we want another version of the code for to experiment keeping the orginal intact. Branches help to create mutiple versions parallely.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps to know about reachability and prevent loss of commits.
