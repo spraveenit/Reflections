@@ -17,3 +17,7 @@ When we want another version of the code for to experiment keeping the orginal i
 How do the diagrams help you visualize the branch structure?
 
 It helps to know about reachability and prevent loss of commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It merges to one. To track history and use diff correctly.
