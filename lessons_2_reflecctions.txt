@@ -21,3 +21,11 @@ It helps to know about reachability and prevent loss of commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It merges to one. To track history and use diff correctly.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merge helps to save time by merging the obvious changes. The con is during conflict it opts manual merge in special format with 3 different changes for each case which is unavoidable and may go tedious if there is drastic difference.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+That would overwrite and affect the local development and may incur risk.
