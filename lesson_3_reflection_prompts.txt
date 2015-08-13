@@ -13,3 +13,7 @@ Fork is use to copy from other repo. Clone is to copy to local repo. Branch is f
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Helps to work offline with last known remote change.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It can be done by manual communication or mailing of files without Git or GitHub which is harder. Using pull request feature of GitHub is easier.
